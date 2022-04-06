@@ -1,0 +1,15 @@
+body {
+  font-family: georgia;
+  background-color: #D9E4DD;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 5px;
+  height: 0px;
+  width: 10%;
+}
+h1 {font-family: lucida handwriting; color: #54BAB9;}
+h3 {font-family: lucida handwriting;
+  color: #54BAB9;}
